@@ -1,0 +1,17 @@
+{
+  "author": "Tim Sogard",
+  "name": "parse_nag",
+  "private": false,
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drags/parse_nagios.git"
+  },
+  "dependencies": {
+    "pegjs": "0.7.0",
+    "argparse": "0.1.15"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
